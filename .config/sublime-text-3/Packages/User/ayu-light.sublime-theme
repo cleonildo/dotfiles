@@ -1,0 +1,26 @@
+[
+  {
+    "class": "sidebar_label",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "sidebar_heading",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "tab_label",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "label_control",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "quick_panel_label",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "quick_panel_path_label",
+    "font.face": "Roboto"
+  }
+]
