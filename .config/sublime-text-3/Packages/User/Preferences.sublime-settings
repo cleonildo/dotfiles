@@ -1,0 +1,52 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.o",
+		".DS_Store",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		"tmp/session",
+		"public/assets"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"overlay_scroll_bars": "enabled",
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ui_font_roboto_mono": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_native_titlebar": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
